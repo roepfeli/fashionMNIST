@@ -1,0 +1,9 @@
+# ignore pytorch data
+data
+
+# ignore trained module
+*.pth
+
+# ignore python-data
+__pycache__
+*.pyc
